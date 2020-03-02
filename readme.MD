@@ -1,5 +1,7 @@
 # AWESOME K8S GPU Sharing Resources
 
+Discussion: https://github.com/kubernetes/kubernetes/issues/52757
+
 ## Proposals:
 - Nvidia: https://docs.google.com/document/d/1ZgKH_K4SEfdiE_OfxQ836s4yQWxZfSjS288Tq9YIWCA/edit#heading=h.r88v2xgacqr
 - AMD   : https://lists.freedesktop.org/archives/dri-devel/2019-August/233463.html
